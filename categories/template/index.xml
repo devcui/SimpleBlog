@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>Pokémon Master Cui</title>
-    <link>https://devcui.github.io/pokemon/</link>
-    <description>Recent content on Pokémon Master Cui</description>
+    <title>template on Pokémon Master Cui</title>
+    <link>https://devcui.github.io/pokemon/categories/template/</link>
+    <description>Recent content in template on Pokémon Master Cui</description>
     <image>
       <url>https://devcui.github.io/pokemon/images/head.png</url>
       <link>https://devcui.github.io/pokemon/images/head.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 -1800</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jul 2022 00:00:00 -1800</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/categories/template/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>template</title>
       <link>https://devcui.github.io/pokemon/posts/template/template/</link>
@@ -18,7 +18,6 @@
       <guid>https://devcui.github.io/pokemon/posts/template/template/</guid>
       <description>Desc Text.</description>
     </item>
-    
     
   </channel>
 </rss>
