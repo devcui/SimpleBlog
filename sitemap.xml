@@ -36,5 +36,7 @@
     <priority>0</priority>
   </url><url>
     <loc>https://devcui.github.io/pokemon/archives/</loc>
+  </url><url>
+    <loc>https://devcui.github.io/pokemon/search/</loc>
   </url>
 </urlset>
