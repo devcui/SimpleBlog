@@ -46,13 +46,13 @@ menu:
       identifier: archives
       url: archives
       weight: 40
-    - name: 冠军
-      url: "resume"
+    - name: 关于
+      url: "about"
       weight: 50
-    - name: 救助可达鸭
-      url: "psyduck"
+    - name: 赞助 
+      url: "sponsor"
       weight: 60
-    - name: 已抓住图鉴
+    - name: 图鉴 
       url: "https://zukan.pokemon.co.jp/"
       weight: 70
 params:
@@ -115,7 +115,7 @@ params:
     appendFilePath: true
   label:
     text: " "
-    icon: "/images/favicon.png"
+    icon: "/intro/images/favicon.png"
     iconHeight: 35
   analytics:
     google:
@@ -125,11 +125,11 @@ params:
     yandex:
       SiteVerificationTag: "blog"
   assets:
-    favicon: "images/favicon.png"
-    favicon16x16: "images/favicon.png"
-    favicon32x32: "images/favicon.png"
-    apple_touch_icon: "images/favicon.png"
-    safari_pinned_tab: "images/favicon.png"
+    favicon: "/intro/images/favicon.png"
+    favicon16x16: "/intro/images/favicon.png"
+    favicon32x32: "/intro/images/favicon.png"
+    apple_touch_icon: "/intro/images/favicon.png"
+    safari_pinned_tab: "/intro/images/favicon.png"
   cover:
     hidden: false
     hiddenInList: false
