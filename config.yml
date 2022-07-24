@@ -1,5 +1,5 @@
 baseURL: "https://devcui.github.io/pokemon/"
-title: "Pokemon Master"
+title: "Pokémon Master"
 paginate: 10
 theme: PaperMod
 enableInlineShortcodes: true
@@ -9,7 +9,7 @@ buildFuture: true
 buildExpired: true
 enableEmoji: true
 googleAnalytics: UA-213464061-1
-defaultContentLanguage: cn
+defaultContentLanguage: en
 minify:
   disableXML: true
   minifyOutput: true
@@ -19,45 +19,45 @@ outputs:
     - RSS
     - JSON
 languages:
-  cn:
-    languageName: ":cn:"
-    languageAltTitle: 中文
+  en:
+    languageName: ":en:"
+    languageAltTitle: English
     weight: 1
-    title: 神奇宝贝大师的旅行日记
+    title: Pokémon Master Cui
 menu:
   main:
-    - name: 列表
+    - name: Posts
       identifier: posts
       url: posts
       weight: 9
-    - name: 分类
+    - name: Categories
       identifier: categories
       url: categories
       weight: 10
-    - name: 标签
+    - name: Tags
       identifier: tags
       url: tags
       weight: 20
-    - name: 系列
+    - name: Series
       identifier: series
       url: series
       weight: 30
-    - name: 归档
+    - name: Archives
       identifier: archives
       url: archives
       weight: 40
-    - name: 关于
+    - name: About
       url: "about"
       weight: 50
-    - name: 赞助 
+    - name: Sponsor 
       url: "sponsor"
       weight: 60
-    - name: 图鉴 
+    - name: Zukan
       url: "https://zukan.pokemon.co.jp/"
       weight: 70
 params:
   env: production
-  description: "神奇宝贝大师的传奇之旅"
+  description: "target Pokémon Master"
   keywords:
     [
       "blog",
@@ -69,7 +69,7 @@ params:
       "papermod",
     ]
   author: cui
-  DateFormat: "January 2, 2006"
+  DateFormat: "2006-01-02"
   defaultTheme: auto
   ShowReadingTime: true
   ShowShareButtons: true
