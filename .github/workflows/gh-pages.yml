@@ -1,7 +1,7 @@
 name: Build GH-Pages
 
-permissions:
-  contents: write
+permissions: write-all
+
 on:
   push:
     paths-ignore:
