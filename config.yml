@@ -1,5 +1,5 @@
 baseURL: "https://devcui.github.io/intro/"
-title: "intro"
+title: "INTRO"
 paginate: 10
 theme: PaperMod
 enableInlineShortcodes: true
@@ -55,3 +55,124 @@ menu:
     - name: 已抓住图鉴
       url: "https://zukan.pokemon.co.jp/"
       weight: 70
+params:
+  env: production
+  description: "神奇宝贝大师的传奇之旅"
+  keywords:
+    [
+      "blog",
+      "cui",
+      "devcui",
+      "github",
+      "hugo",
+      "go",
+      "papermod",
+    ]
+  author: cui
+  DateFormat: "January 2, 2006"
+  defaultTheme: auto
+  ShowReadingTime: true
+  ShowShareButtons: true
+  ShowPostNavLinks: true
+  ShowBreadCrumbs: true
+  ShowCodeCopyButtons: true
+  disableSpecial1stPost: false
+  disableScrollToTop: false
+  comments: true
+  hidemeta: false
+  hideSummary: false
+  showtoc: true
+  tocopen: true
+  disableThemeToggle: false
+  displayFullLangName: true
+  ShowToc: true
+  images: ["images/head.png"]
+  profileMode:
+    enabled: true
+    title: ポケモン ゲットだぜーッ！
+    imageUrl: "images/head.png"
+    imageTitle: Red
+    imageWidth: 300
+    imageHeight: 300
+    style: full
+    subtitle: なかなか なかなかなかなか なかなか 大変だけど
+    buttons:
+      - name: "Enter"
+        url: posts
+  homeInfoParams:
+    Title: "ポケモン ゲットだぜーッ！"
+    Content: なかなか なかなかなかなか なかなか 大変だけど
+  socialIcons:
+    - name: github
+      url: "https://github.com/devcui/"
+    - name: KoFi
+      url: "https://devcui.github.io/intro/sponsor/"
+    - name: Rss
+      url: "index.xml"
+  editPost:
+    URL: "https://github.com/devcui/intro/tree/master/content/"
+    Text: "Suggest Changes"
+    appendFilePath: true
+  label:
+    text: " "
+    icon: "/images/favicon.png"
+    iconHeight: 35
+  analytics:
+    google:
+      SiteVerificationTag: "blog"
+    bing:
+      SiteVerificationTag: "blog"
+    yandex:
+      SiteVerificationTag: "blog"
+  assets:
+    favicon: "images/favicon.png"
+    favicon16x16: "images/favicon.png"
+    favicon32x32: "images/favicon.png"
+    apple_touch_icon: "images/favicon.png"
+    safari_pinned_tab: "images/favicon.png"
+  cover:
+    hidden: false
+    hiddenInList: false
+    hiddenInSingle: false
+  fuseOpts:
+    isCaseSensitive: true
+    shouldSort: true
+    location: 0
+    distance: 1000
+    threshold: 0.4
+    minMatchCharLength: 0
+    keys: ["title", "permalink", "summary", "content"]
+taxonomies:
+  category: categories
+  tag: tags
+  series: series
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+  highlight:
+    anchorLineNos: false
+    codeFences: true
+    guessSyntax: true
+    lineNos: true
+    noClasses: false
+    style: monokai
+privacy:
+  vimeo:
+    disabled: false
+    simple: true
+  twitter:
+    disabled: false
+    enableDNT: true
+    simple: true
+  instagram:
+    disabled: false
+    simple: true
+  youtube:
+    disabled: false
+    privacyEnhanced: true
+services:
+  instagram:
+    disableInlineCSS: true
+  twitter:
+    disableInlineCSS: true
