@@ -3,7 +3,7 @@
 <table>
 <tr>
     <td rowspan="10">
-        <img style="height:400px" src="/intro/images/me.png" >
+        <img style="height:400px" src="/pokemon/images/me.png" >
     </td>
 </tr>
 
@@ -14,7 +14,7 @@
 
 <tr>
     <td>博客</td>
-    <td>https://eiyouhe.com</td>
+    <td>https://devcui.github.io/pokemon/</td>
 </tr>
 
 <tr>

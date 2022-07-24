@@ -1,5 +1,5 @@
 baseURL: "https://devcui.github.io/pokemon/"
-title: "INTRO"
+title: "Pokemon Master"
 paginate: 10
 theme: PaperMod
 enableInlineShortcodes: true
@@ -106,16 +106,16 @@ params:
     - name: github
       url: "https://github.com/devcui/"
     - name: KoFi
-      url: "https://devcui.github.io/intro/sponsor/"
+      url: "https://devcui.github.io/pokemon/sponsor/"
     - name: Rss
       url: "index.xml"
   editPost:
-    URL: "https://github.com/devcui/intro/tree/master/content/"
+    URL: "https://github.com/devcui/pokemon/tree/master/content/"
     Text: "Suggest Changes"
     appendFilePath: true
   label:
     text: " "
-    icon: "/intro/images/favicon.png"
+    icon: "/pokemon/images/favicon.png"
     iconHeight: 35
   analytics:
     google:
@@ -125,11 +125,11 @@ params:
     yandex:
       SiteVerificationTag: "blog"
   assets:
-    favicon: "/intro/images/favicon.png"
-    favicon16x16: "/intro/images/favicon.png"
-    favicon32x32: "/intro/images/favicon.png"
-    apple_touch_icon: "/intro/images/favicon.png"
-    safari_pinned_tab: "/intro/images/favicon.png"
+    favicon: "/pokemon/images/favicon.png"
+    favicon16x16: "/pokemon/images/favicon.png"
+    favicon32x32: "/pokemon/images/favicon.png"
+    apple_touch_icon: "/pokemon/images/favicon.png"
+    safari_pinned_tab: "/pokemon/images/favicon.png"
   cover:
     hidden: false
     hiddenInList: false
