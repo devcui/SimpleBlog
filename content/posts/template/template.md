@@ -21,3 +21,9 @@ ShowBreadCrumbs: true
 ShowPostNavLinks: true
 ---
 
+# Template Title
+
+template
+
+$ a + 1 = b $
+

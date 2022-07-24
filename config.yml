@@ -26,6 +26,8 @@ languages:
     title: Pokémon Master Cui
 menu:
   main:
+    - name: Search
+      url: search/
     - name: Posts
       identifier: posts
       url: posts
