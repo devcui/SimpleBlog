@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on 神奇宝贝大师的旅行日记</title>
+    <link>https://devcui.github.io/pokemon/categories/</link>
+    <description>Recent content in Categories on 神奇宝贝大师的旅行日记</description>
+    <image>
+      <url>https://devcui.github.io/pokemon/images/head.png</url>
+      <link>https://devcui.github.io/pokemon/images/head.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Dec 2021 11:59:59 +0000</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>开发环境</title>
+      <link>https://devcui.github.io/pokemon/categories/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</link>
+      <pubDate>Fri, 31 Dec 2021 11:59:59 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>样式</title>
+      <link>https://devcui.github.io/pokemon/categories/%E6%A0%B7%E5%BC%8F/</link>
+      <pubDate>Sun, 19 Dec 2021 22:18:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E6%A0%B7%E5%BC%8F/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>总结</title>
+      <link>https://devcui.github.io/pokemon/categories/%E6%80%BB%E7%BB%93/</link>
+      <pubDate>Sun, 19 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E6%80%BB%E7%BB%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>云平台</title>
+      <link>https://devcui.github.io/pokemon/categories/%E4%BA%91%E5%B9%B3%E5%8F%B0/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E4%BA%91%E5%B9%B3%E5%8F%B0/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>单片机</title>
+      <link>https://devcui.github.io/pokemon/categories/%E5%8D%95%E7%89%87%E6%9C%BA/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E5%8D%95%E7%89%87%E6%9C%BA/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>开源</title>
+      <link>https://devcui.github.io/pokemon/categories/%E5%BC%80%E6%BA%90/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E5%BC%80%E6%BA%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>微前端</title>
+      <link>https://devcui.github.io/pokemon/categories/%E5%BE%AE%E5%89%8D%E7%AB%AF/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E5%BE%AE%E5%89%8D%E7%AB%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据刮取</title>
+      <link>https://devcui.github.io/pokemon/categories/%E6%95%B0%E6%8D%AE%E5%88%AE%E5%8F%96/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E6%95%B0%E6%8D%AE%E5%88%AE%E5%8F%96/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据库</title>
+      <link>https://devcui.github.io/pokemon/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>数据结构</title>
+      <link>https://devcui.github.io/pokemon/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>时序数据库</title>
+      <link>https://devcui.github.io/pokemon/categories/%E6%97%B6%E5%BA%8F%E6%95%B0%E6%8D%AE%E5%BA%93/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E6%97%B6%E5%BA%8F%E6%95%B0%E6%8D%AE%E5%BA%93/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>烧录工具</title>
+      <link>https://devcui.github.io/pokemon/categories/%E7%83%A7%E5%BD%95%E5%B7%A5%E5%85%B7/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E7%83%A7%E5%BD%95%E5%B7%A5%E5%85%B7/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>用户认证</title>
+      <link>https://devcui.github.io/pokemon/categories/%E7%94%A8%E6%88%B7%E8%AE%A4%E8%AF%81/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E7%94%A8%E6%88%B7%E8%AE%A4%E8%AF%81/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>电子</title>
+      <link>https://devcui.github.io/pokemon/categories/%E7%94%B5%E5%AD%90/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E7%94%B5%E5%AD%90/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>移动端</title>
+      <link>https://devcui.github.io/pokemon/categories/%E7%A7%BB%E5%8A%A8%E7%AB%AF/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E7%A7%BB%E5%8A%A8%E7%AB%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>脚本</title>
+      <link>https://devcui.github.io/pokemon/categories/%E8%84%9A%E6%9C%AC/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E8%84%9A%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>游戏</title>
+      <link>https://devcui.github.io/pokemon/categories/%E6%B8%B8%E6%88%8F/</link>
+      <pubDate>Sat, 04 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/%E6%B8%B8%E6%88%8F/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Posts on 神奇宝贝大师的旅行日记</title>
+    <link>https://devcui.github.io/pokemon/posts/</link>
+    <description>Recent content in Posts on 神奇宝贝大师的旅行日记</description>
+    <image>
+      <url>https://devcui.github.io/pokemon/images/head.png</url>
+      <link>https://devcui.github.io/pokemon/images/head.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Dec 2021 11:59:59 +0000</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>WSL development environment under Win11</title>
+      <link>https://devcui.github.io/pokemon/posts/env/wsl/</link>
+      <pubDate>Fri, 31 Dec 2021 11:59:59 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/env/wsl/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Css the definitive guide 01</title>
+      <link>https://devcui.github.io/pokemon/posts/stylesheet/css-the-definitive-guide-01/</link>
+      <pubDate>Sun, 19 Dec 2021 22:18:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/stylesheet/css-the-definitive-guide-01/</guid>
+      <description>Some excerpts and summaries.</description>
+    </item>
+    
+    <item>
+      <title>Year 2021</title>
+      <link>https://devcui.github.io/pokemon/posts/summary/year2021/</link>
+      <pubDate>Sun, 19 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/summary/year2021/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>JSONSchema</title>
+      <link>https://devcui.github.io/pokemon/posts/datstruct/json/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/datstruct/json/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>K8S服务健康检测(探针)</title>
+      <link>https://devcui.github.io/pokemon/posts/k8s/k8s-probe/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/k8s/k8s-probe/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Micrometer Concepts</title>
+      <link>https://devcui.github.io/pokemon/posts/prometheus/micrometer-concepts/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/prometheus/micrometer-concepts/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Prometheus Alerting</title>
+      <link>https://devcui.github.io/pokemon/posts/prometheus/prometheus-alerting/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/prometheus/prometheus-alerting/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Prometheus Exporter</title>
+      <link>https://devcui.github.io/pokemon/posts/prometheus/prometheus-exporter/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/prometheus/prometheus-exporter/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Prometheus Redis</title>
+      <link>https://devcui.github.io/pokemon/posts/prometheus/prometheus-redis/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/prometheus/prometheus-redis/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Prometheus Rules</title>
+      <link>https://devcui.github.io/pokemon/posts/prometheus/prometheus-rules/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/prometheus/prometheus-rules/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>RFC 6749 - OAuth 2.0</title>
+      <link>https://devcui.github.io/pokemon/posts/rfc/rfc6749oauth/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/rfc/rfc6749oauth/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Vmalert</title>
+      <link>https://devcui.github.io/pokemon/posts/prometheus/vmalert/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/prometheus/vmalert/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Win下使用 GitBash下安装 rsync</title>
+      <link>https://devcui.github.io/pokemon/posts/lib/gitbash-rsync/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/lib/gitbash-rsync/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Year 2020</title>
+      <link>https://devcui.github.io/pokemon/posts/summary/year2020/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/summary/year2020/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Year 2020 05</title>
+      <link>https://devcui.github.io/pokemon/posts/summary/year202005/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/summary/year202005/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>关于微前端实现原理与ngx-planet(一)</title>
+      <link>https://devcui.github.io/pokemon/posts/angular/ngxplanet1/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/angular/ngxplanet1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>关于微前端实现原理与ngx-planet(三)</title>
+      <link>https://devcui.github.io/pokemon/posts/angular/ngxplanet3/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/angular/ngxplanet3/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>关于微前端实现原理与ngx-planet(二)</title>
+      <link>https://devcui.github.io/pokemon/posts/angular/ngxplanet2/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/angular/ngxplanet2/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>关于微前端实现原理与ngx-planet(四)</title>
+      <link>https://devcui.github.io/pokemon/posts/angular/ngxplanet4/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/angular/ngxplanet4/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>在IPAD上调试Flutter应用</title>
+      <link>https://devcui.github.io/pokemon/posts/flutter/flutteripad/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/flutter/flutteripad/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>基于Rymcu 8051 开发板的实验</title>
+      <link>https://devcui.github.io/pokemon/posts/mcu/8051/rymcu/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/mcu/8051/rymcu/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>批量清理node_modules</title>
+      <link>https://devcui.github.io/pokemon/posts/utils/node-modules/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/utils/node-modules/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>纪念逝去的软件先驱</title>
+      <link>https://devcui.github.io/pokemon/posts/article/softers/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/article/softers/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>解析Stcgal</title>
+      <link>https://devcui.github.io/pokemon/posts/python/stcgal/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/python/stcgal/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+    <item>
+      <title>Pokemmo.1</title>
+      <link>https://devcui.github.io/pokemon/posts/pokemmo/pokemmo1/</link>
+      <pubDate>Sat, 04 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/posts/pokemmo/pokemmo1/</guid>
+      <description>Desc Text.</description>
+    </item>
+    
+  </channel>
+</rss>

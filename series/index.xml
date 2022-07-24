@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Series on 神奇宝贝大师的旅行日记</title>
+    <link>https://devcui.github.io/pokemon/series/</link>
+    <description>Recent content in Series on 神奇宝贝大师的旅行日记</description>
+    <image>
+      <url>https://devcui.github.io/pokemon/images/head.png</url>
+      <link>https://devcui.github.io/pokemon/images/head.png</link>
+    </image>
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Fri, 31 Dec 2021 11:59:59 +0000</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>某男子开发的日常</title>
+      <link>https://devcui.github.io/pokemon/series/%E6%9F%90%E7%94%B7%E5%AD%90%E5%BC%80%E5%8F%91%E7%9A%84%E6%97%A5%E5%B8%B8/</link>
+      <pubDate>Fri, 31 Dec 2021 11:59:59 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/%E6%9F%90%E7%94%B7%E5%AD%90%E5%BC%80%E5%8F%91%E7%9A%84%E6%97%A5%E5%B8%B8/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>CSS: The Definitive Guide</title>
+      <link>https://devcui.github.io/pokemon/series/css-the-definitive-guide/</link>
+      <pubDate>Sun, 19 Dec 2021 22:18:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/css-the-definitive-guide/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>令我羞涩的一些文字</title>
+      <link>https://devcui.github.io/pokemon/series/%E4%BB%A4%E6%88%91%E7%BE%9E%E6%B6%A9%E7%9A%84%E4%B8%80%E4%BA%9B%E6%96%87%E5%AD%97/</link>
+      <pubDate>Sun, 19 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/%E4%BB%A4%E6%88%91%E7%BE%9E%E6%B6%A9%E7%9A%84%E4%B8%80%E4%BA%9B%E6%96%87%E5%AD%97/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ngx-planet微前端</title>
+      <link>https://devcui.github.io/pokemon/series/ngx-planet%E5%BE%AE%E5%89%8D%E7%AB%AF/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/ngx-planet%E5%BE%AE%E5%89%8D%E7%AB%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>rE从零开始的电子世界生活</title>
+      <link>https://devcui.github.io/pokemon/series/re%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E7%94%B5%E5%AD%90%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/re%E4%BB%8E%E9%9B%B6%E5%BC%80%E5%A7%8B%E7%9A%84%E7%94%B5%E5%AD%90%E4%B8%96%E7%95%8C%E7%94%9F%E6%B4%BB/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>关于RFC规约那档事</title>
+      <link>https://devcui.github.io/pokemon/series/%E5%85%B3%E4%BA%8Erfc%E8%A7%84%E7%BA%A6%E9%82%A3%E6%A1%A3%E4%BA%8B/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/%E5%85%B3%E4%BA%8Erfc%E8%A7%84%E7%BA%A6%E9%82%A3%E6%A1%A3%E4%BA%8B/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>实用小脚本</title>
+      <link>https://devcui.github.io/pokemon/series/%E5%AE%9E%E7%94%A8%E5%B0%8F%E8%84%9A%E6%9C%AC/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/%E5%AE%9E%E7%94%A8%E5%B0%8F%E8%84%9A%E6%9C%AC/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>我的K8S进阶之路</title>
+      <link>https://devcui.github.io/pokemon/series/%E6%88%91%E7%9A%84k8s%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF/</link>
+      <pubDate>Sun, 05 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/%E6%88%91%E7%9A%84k8s%E8%BF%9B%E9%98%B6%E4%B9%8B%E8%B7%AF/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>冠军和他的宝可梦们</title>
+      <link>https://devcui.github.io/pokemon/series/%E5%86%A0%E5%86%9B%E5%92%8C%E4%BB%96%E7%9A%84%E5%AE%9D%E5%8F%AF%E6%A2%A6%E4%BB%AC/</link>
+      <pubDate>Sat, 04 Dec 2021 11:30:03 +0000</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/%E5%86%A0%E5%86%9B%E5%92%8C%E4%BB%96%E7%9A%84%E5%AE%9D%E5%8F%AF%E6%A2%A6%E4%BB%AC/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
