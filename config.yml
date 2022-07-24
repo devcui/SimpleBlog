@@ -1,4 +1,4 @@
-baseURL: "https://devcui.github.io/intro/"
+baseURL: "https://devcui.github.io/pokemon/"
 title: "INTRO"
 paginate: 10
 theme: PaperMod
