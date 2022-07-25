@@ -56,3 +56,18 @@
 - Docker/Git/GitFlow/Sourcetree 的使用
 - Vim/Neovim/SpaceVim/IDEA/Goland/WebStrom/Vscode 等 IDE 的使用和配置
 - C/C++/单片机 8051 以及常用模块与寄存器的使用,Sdcc 编译,Stcgal 烧录
+
+
+
+# GitHub
+
+![github stats](https://github-readme-stats.vercel.app/api/?username=devcui&show_icons=true&hide_title=true&theme=dark)
+
+# Wakatime
+
+![wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=devcui&layout=compact&theme=dark)
+
+
+# CodeStats
+
+![code stats](https://codestats-readme.wegfan.cn/history-graph/devcui?max_languages=15&history_days=30&&language_colors=["FFFF99","FFCCCC","FFCC66","FF99FF","FF6666","CCFFFF","CCFFCC","CCCCFF","CCCCCC","CC99FF","99FFCC","99CCCC","66CC99","3399CC","EEEEEE"])
