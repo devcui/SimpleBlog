@@ -88,11 +88,11 @@ params:
   disableThemeToggle: false
   displayFullLangName: true
   ShowToc: true
-  images: ["images/head.png"]
+  images: ["images/head.jpeg"]
   profileMode:
     enabled: true
     title: ポケモン ゲットだぜーッ！
-    imageUrl: "images/head.png"
+    imageUrl: "images/head.jpeg"
     imageTitle: Red
     imageWidth: 300
     imageHeight: 300
