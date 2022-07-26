@@ -93,7 +93,7 @@ params:
     enabled: true
     title: ポケモン ゲットだぜーッ！
     imageUrl: "images/head.jpeg"
-    imageTitle: Red
+    imageTitle: Green
     imageWidth: 300
     imageHeight: 300
     style: full
