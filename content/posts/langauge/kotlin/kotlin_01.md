@@ -12,13 +12,13 @@ hidemeta: false
 comments: false
 description: "none description"
 math: true
-# cover:
-#     image: /pokemon/images/ubuntu/neofetch.png
-#     caption: "ubuntu-neofetch"
-#     alt: "ubuntu"
-#     relative: true
-#     responsiveImages: true
-#     hidden: false
+cover:
+    image: /pokemon/images/kotlin/kotlin.jpg
+    caption: "kotlin_logo"
+    alt: "kotlin"
+    relative: true
+    responsiveImages: true
+    hidden: false
 disableHLJS:  false
 disableShare: false
 disableHLJS: false
@@ -34,4 +34,6 @@ canonicalURL: "https://devcui.github.io/pokemon/posts/ubuntu/ubuntu-01"
 CanonicalLinkText: "copy from"
 robotsNoIndex: true
 ---
+
+11
 
