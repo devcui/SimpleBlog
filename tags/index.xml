@@ -9,7 +9,205 @@
       <link>https://devcui.github.io/pokemon/images/head.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 -1800</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jul 2022 00:00:00 -1800</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8051</title>
+      <link>https://devcui.github.io/pokemon/tags/8051/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/8051/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algorithm</title>
+      <link>https://devcui.github.io/pokemon/tags/algorithm/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>assembly</title>
+      <link>https://devcui.github.io/pokemon/tags/assembly/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/assembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c&#43;&#43;</title>
+      <link>https://devcui.github.io/pokemon/tags/c&#43;&#43;/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clang</title>
+      <link>https://devcui.github.io/pokemon/tags/clang/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/clang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://devcui.github.io/pokemon/tags/css/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flink</title>
+      <link>https://devcui.github.io/pokemon/tags/flink/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/flink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formily</title>
+      <link>https://devcui.github.io/pokemon/tags/formily/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/formily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://devcui.github.io/pokemon/tags/golang/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://devcui.github.io/pokemon/tags/java/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>https://devcui.github.io/pokemon/tags/k8s/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kafka</title>
+      <link>https://devcui.github.io/pokemon/tags/kafka/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kotlin</title>
+      <link>https://devcui.github.io/pokemon/tags/kotlin/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ktorm</title>
+      <link>https://devcui.github.io/pokemon/tags/ktorm/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/ktorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>linux</title>
+      <link>https://devcui.github.io/pokemon/tags/linux/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://devcui.github.io/pokemon/tags/network/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://devcui.github.io/pokemon/tags/python/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>springcloud</title>
+      <link>https://devcui.github.io/pokemon/tags/springcloud/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/springcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sql</title>
+      <link>https://devcui.github.io/pokemon/tags/sql/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stm32</title>
+      <link>https://devcui.github.io/pokemon/tags/stm32/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/stm32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typescript</title>
+      <link>https://devcui.github.io/pokemon/tags/typescript/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ubuntu</title>
+      <link>https://devcui.github.io/pokemon/tags/ubuntu/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/tags/ubuntu/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>journal</title>
       <link>https://devcui.github.io/pokemon/tags/journal/</link>

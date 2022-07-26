@@ -9,7 +9,79 @@
       <link>https://devcui.github.io/pokemon/images/head.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 -1800</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jul 2022 00:00:00 -1800</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>bigdata</title>
+      <link>https://devcui.github.io/pokemon/categories/bigdata/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/bigdata/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>cloud</title>
+      <link>https://devcui.github.io/pokemon/categories/cloud/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/cloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>computer system</title>
+      <link>https://devcui.github.io/pokemon/categories/computer-system/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/computer-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>framework</title>
+      <link>https://devcui.github.io/pokemon/categories/framework/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/framework/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>hardware</title>
+      <link>https://devcui.github.io/pokemon/categories/hardware/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/hardware/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>langauge</title>
+      <link>https://devcui.github.io/pokemon/categories/langauge/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/langauge/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>operating system</title>
+      <link>https://devcui.github.io/pokemon/categories/operating-system/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/operating-system/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ui</title>
+      <link>https://devcui.github.io/pokemon/categories/ui/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/categories/ui/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>journal</title>
       <link>https://devcui.github.io/pokemon/categories/journal/</link>

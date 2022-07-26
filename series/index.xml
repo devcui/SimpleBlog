@@ -9,7 +9,196 @@
       <link>https://devcui.github.io/pokemon/images/head.png</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 25 Jul 2022 00:00:00 -1800</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Jul 2022 00:00:00 -1800</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>8051</title>
+      <link>https://devcui.github.io/pokemon/series/8051/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/8051/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>algorithm</title>
+      <link>https://devcui.github.io/pokemon/series/algorithm/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/algorithm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>assembly</title>
+      <link>https://devcui.github.io/pokemon/series/assembly/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/assembly/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>c&#43;&#43;</title>
+      <link>https://devcui.github.io/pokemon/series/c&#43;&#43;/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/c&#43;&#43;/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>clang</title>
+      <link>https://devcui.github.io/pokemon/series/clang/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/clang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>css</title>
+      <link>https://devcui.github.io/pokemon/series/css/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/css/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>flink</title>
+      <link>https://devcui.github.io/pokemon/series/flink/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/flink/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>formily</title>
+      <link>https://devcui.github.io/pokemon/series/formily/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/formily/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>golang</title>
+      <link>https://devcui.github.io/pokemon/series/golang/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/golang/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>java</title>
+      <link>https://devcui.github.io/pokemon/series/java/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/java/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>k8s</title>
+      <link>https://devcui.github.io/pokemon/series/k8s/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/k8s/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kafka</title>
+      <link>https://devcui.github.io/pokemon/series/kafka/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/kafka/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>kotlin</title>
+      <link>https://devcui.github.io/pokemon/series/kotlin/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/kotlin/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>ktorm</title>
+      <link>https://devcui.github.io/pokemon/series/ktorm/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/ktorm/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>learning linux</title>
+      <link>https://devcui.github.io/pokemon/series/learning-linux/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/learning-linux/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>network</title>
+      <link>https://devcui.github.io/pokemon/series/network/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/network/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>python</title>
+      <link>https://devcui.github.io/pokemon/series/python/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>springcloud</title>
+      <link>https://devcui.github.io/pokemon/series/springcloud/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/springcloud/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>sql</title>
+      <link>https://devcui.github.io/pokemon/series/sql/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/sql/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>stm32</title>
+      <link>https://devcui.github.io/pokemon/series/stm32/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/stm32/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>typescript</title>
+      <link>https://devcui.github.io/pokemon/series/typescript/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/typescript/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>journal 2022</title>
       <link>https://devcui.github.io/pokemon/series/journal-2022/</link>
