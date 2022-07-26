@@ -29,6 +29,15 @@
     </item>
     
     <item>
+      <title>angular</title>
+      <link>https://devcui.github.io/pokemon/series/angular/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/angular/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>assembly</title>
       <link>https://devcui.github.io/pokemon/series/assembly/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
@@ -164,6 +173,15 @@
     </item>
     
     <item>
+      <title>react</title>
+      <link>https://devcui.github.io/pokemon/series/react/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/react/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>springcloud</title>
       <link>https://devcui.github.io/pokemon/series/springcloud/</link>
       <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
@@ -196,6 +214,15 @@
       <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
       
       <guid>https://devcui.github.io/pokemon/series/typescript/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>vue</title>
+      <link>https://devcui.github.io/pokemon/series/vue/</link>
+      <pubDate>Tue, 26 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/vue/</guid>
       <description></description>
     </item>
     
