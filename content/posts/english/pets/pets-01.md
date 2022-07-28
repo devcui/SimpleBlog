@@ -49,5 +49,5 @@ robotsNoIndex: true
 | 8 | above | əˈbəv | prep. | 在...之上,超过 |
 |   | | | a. | 上面的,上述的 |
 |   | | | ad. | 在上面,以上 |
-| 9 | abroad | ad. | 在(到)国外,在(到)海外;传开 |
-| 10 | absence | n. | 缺席;缺乏 |
+| 9 | abroad | əˈbrôd | ad. | 在(到)国外,在(到)海外;传开 |
+| 10 | absence | ˈabsəns | n. | 缺席;缺乏 |
