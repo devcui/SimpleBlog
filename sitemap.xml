@@ -2,6 +2,33 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://devcui.github.io/pokemon/categories/</loc>
+    <lastmod>2022-07-28T00:00:00-18:00</lastmod>
+  </url><url>
+    <loc>https://devcui.github.io/pokemon/categories/english/</loc>
+    <lastmod>2022-07-28T00:00:00-18:00</lastmod>
+  </url><url>
+    <loc>https://devcui.github.io/pokemon/tags/pets/</loc>
+    <lastmod>2022-07-28T00:00:00-18:00</lastmod>
+  </url><url>
+    <loc>https://devcui.github.io/pokemon/series/pets/</loc>
+    <lastmod>2022-07-28T00:00:00-18:00</lastmod>
+  </url><url>
+    <loc>https://devcui.github.io/pokemon/posts/english/pets/pets-01/</loc>
+    <lastmod>2022-07-28T00:00:00-18:00</lastmod>
+  </url><url>
+    <loc>https://devcui.github.io/pokemon/</loc>
+    <lastmod>2022-07-28T00:00:00-18:00</lastmod>
+  </url><url>
+    <loc>https://devcui.github.io/pokemon/posts/</loc>
+    <lastmod>2022-07-28T00:00:00-18:00</lastmod>
+  </url><url>
+    <loc>https://devcui.github.io/pokemon/series/</loc>
+    <lastmod>2022-07-28T00:00:00-18:00</lastmod>
+  </url><url>
+    <loc>https://devcui.github.io/pokemon/tags/</loc>
+    <lastmod>2022-07-28T00:00:00-18:00</lastmod>
+  </url><url>
     <loc>https://devcui.github.io/pokemon/tags/8051/</loc>
     <lastmod>2022-07-26T00:00:00-18:00</lastmod>
   </url><url>
@@ -48,9 +75,6 @@
     <lastmod>2022-07-26T00:00:00-18:00</lastmod>
   </url><url>
     <loc>https://devcui.github.io/pokemon/posts/langauge/c&#43;&#43;/c&#43;&#43;_01/</loc>
-    <lastmod>2022-07-26T00:00:00-18:00</lastmod>
-  </url><url>
-    <loc>https://devcui.github.io/pokemon/categories/</loc>
     <lastmod>2022-07-26T00:00:00-18:00</lastmod>
   </url><url>
     <loc>https://devcui.github.io/pokemon/tags/clang/</loc>
@@ -176,12 +200,6 @@
     <loc>https://devcui.github.io/pokemon/categories/operating-system/</loc>
     <lastmod>2022-07-26T00:00:00-18:00</lastmod>
   </url><url>
-    <loc>https://devcui.github.io/pokemon/</loc>
-    <lastmod>2022-07-26T00:00:00-18:00</lastmod>
-  </url><url>
-    <loc>https://devcui.github.io/pokemon/posts/</loc>
-    <lastmod>2022-07-26T00:00:00-18:00</lastmod>
-  </url><url>
     <loc>https://devcui.github.io/pokemon/tags/python/</loc>
     <lastmod>2022-07-26T00:00:00-18:00</lastmod>
   </url><url>
@@ -198,9 +216,6 @@
     <lastmod>2022-07-26T00:00:00-18:00</lastmod>
   </url><url>
     <loc>https://devcui.github.io/pokemon/posts/ui/react/react_01/</loc>
-    <lastmod>2022-07-26T00:00:00-18:00</lastmod>
-  </url><url>
-    <loc>https://devcui.github.io/pokemon/series/</loc>
     <lastmod>2022-07-26T00:00:00-18:00</lastmod>
   </url><url>
     <loc>https://devcui.github.io/pokemon/tags/springcloud/</loc>
@@ -228,9 +243,6 @@
     <lastmod>2022-07-26T00:00:00-18:00</lastmod>
   </url><url>
     <loc>https://devcui.github.io/pokemon/posts/hardware/stm32/stm32_01/</loc>
-    <lastmod>2022-07-26T00:00:00-18:00</lastmod>
-  </url><url>
-    <loc>https://devcui.github.io/pokemon/tags/</loc>
     <lastmod>2022-07-26T00:00:00-18:00</lastmod>
   </url><url>
     <loc>https://devcui.github.io/pokemon/tags/typescript/</loc>
