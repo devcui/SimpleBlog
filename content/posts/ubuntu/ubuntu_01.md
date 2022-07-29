@@ -35,8 +35,6 @@ CanonicalLinkText: "copy from"
 robotsNoIndex: true
 ---
 
-
-
 # 1. Version
 
 - `cat /proc/version`
@@ -97,8 +95,6 @@ robotsNoIndex: true
   
   - you should install it before using ` apt-get install neofetch`
 
-
-
 # 2. After Install
 
 - reset password
@@ -116,6 +112,8 @@ robotsNoIndex: true
 - driver
   
   - amdgpu
+    - godo [admdriver](https://www.amd.com/zh-hans/support) and choose your graph card version
+    - ![amd](/pokemon/images/ubuntu/ubuntu.png)
 
 - network
   
