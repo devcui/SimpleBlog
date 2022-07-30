@@ -9,22 +9,22 @@
       <link>https://devcui.github.io/pokemon/images/head.jpeg</link>
     </image>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 29 Jul 2022 00:00:00 -1800</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/series/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 30 Jul 2022 00:00:00 -1800</lastBuildDate><atom:link href="https://devcui.github.io/pokemon/series/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>pets</title>
+      <link>https://devcui.github.io/pokemon/series/pets/</link>
+      <pubDate>Sat, 30 Jul 2022 00:00:00 -1800</pubDate>
+      
+      <guid>https://devcui.github.io/pokemon/series/pets/</guid>
+      <description></description>
+    </item>
+    
     <item>
       <title>journal 2022</title>
       <link>https://devcui.github.io/pokemon/series/journal-2022/</link>
       <pubDate>Fri, 29 Jul 2022 00:00:00 -1800</pubDate>
       
       <guid>https://devcui.github.io/pokemon/series/journal-2022/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>pets</title>
-      <link>https://devcui.github.io/pokemon/series/pets/</link>
-      <pubDate>Thu, 28 Jul 2022 00:00:00 -1800</pubDate>
-      
-      <guid>https://devcui.github.io/pokemon/series/pets/</guid>
       <description></description>
     </item>
     
